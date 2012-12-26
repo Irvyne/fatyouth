@@ -1,0 +1,19 @@
+{
+  "name": "FatYouth",
+  "description": "BigYouth bot on top of Fatbot",
+  "author": "Franco Bouly <fbouly@gmail..com>",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rayfranco/fatbot.git"
+  },
+  "bugs": {
+    "email": "fbouly@gmail.com",
+    "url": "https://github.com/rayfranco/fatbot/issues"
+  },
+  "dependencies": {
+    "coffee-script": "1.4.x",
+    "fatbot": "0.3.x"
+  },
+  "engine": "node >= 0.4.1"
+}
